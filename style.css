@@ -1,0 +1,27 @@
+#playgame{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 40px;
+}
+
+
+#heading{
+    background-color: blueviolet;
+    color:white;
+}
+
+#button{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 40px;
+    float:right;
+}
+#status{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 40px;
+}
+
+.heading h3{
+    display:inline;
+}
